@@ -1,4 +1,4 @@
-# Cinema application
+# Cinema
 
 Cinema is a website for displaying the films which are presented in MAX cinema written in React.js and Material-Ui. The movies displyed on the website are fetched from my JSON API.
 ## Running the website locally
